@@ -23,11 +23,10 @@ Taskail is the simplest solution to a universal problem: capturing thoughts befo
 *   **Modern UI**: Sleek, glassmorphic design that feels native.
 
 ## 📦 How to Install
-1.  Go to the [Latest Release](https://github.com/YOUR_USERNAME/taskail/releases).
+1.  Go to the release section
 2.  Download **`taskail Setup 1.0.0.exe`**.
 3.  Run the installer and start capturing.
 
-(APP will be released soon, fixing some issues)
 ---
 
 ## 🛠️ Developed By
@@ -36,6 +35,7 @@ Taskail is the simplest solution to a universal problem: capturing thoughts befo
 
 ---
 *Taskail: One hotkey between a spoken thought and a completed task.*
+
 
 
 
