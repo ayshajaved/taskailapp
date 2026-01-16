@@ -1,5 +1,8 @@
 # Taskail ⌘K
 **Catch every task at the speed of thought.**
+## 📥 Download
+[Download Taskail v1.1.0 (Windows)](https://drive.google.com/file/d/1riWOp4-kmG2CZL74CEMzbybOPCCRTnUw/view?usp=sharing)
+
 ### Imagine this...
 You are scrolling on LinkedIn and suddenly remember you have to upload an assignment in 2 hours. You fear you will forget. Or you're watching a series, learn a new word, and want to save it without switching to a note-taking app.
 
@@ -35,6 +38,7 @@ Taskail is the simplest solution to a universal problem: capturing thoughts befo
 
 ---
 *Taskail: One hotkey between a spoken thought and a completed task.*
+
 
 
 
